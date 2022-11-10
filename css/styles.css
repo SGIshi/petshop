@@ -1,0 +1,15 @@
+/** Header **/
+.colorFondo{
+    background-color: #ffb700;
+}
+
+/** Footer **/
+footer{
+    width: 100%;
+    background-color: #ffb700;
+    color: black;
+}
+footer p{
+    text-align: center;
+    padding: 5rem;
+}
